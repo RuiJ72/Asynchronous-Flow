@@ -1,0 +1,15 @@
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\bin\Debug\net6.0\ExemploFluxoAssincrono.exe
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\bin\Debug\net6.0\ExemploFluxoAssincrono.deps.json
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\bin\Debug\net6.0\ExemploFluxoAssincrono.runtimeconfig.json
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\bin\Debug\net6.0\ExemploFluxoAssincrono.dll
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\bin\Debug\net6.0\ExemploFluxoAssincrono.pdb
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.csproj.AssemblyReference.cache
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.AssemblyInfoInputs.cache
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.AssemblyInfo.cs
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.csproj.CoreCompileInputs.cache
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.dll
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\refint\ExemploFluxoAssincrono.dll
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.pdb
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ExemploFluxoAssincrono.genruntimeconfig.cache
+E:\C# Projects\OpenBootcamp\Fluxo Assíncoro\ExemploFluxoAssincrono\ExemploFluxoAssincrono\obj\Debug\net6.0\ref\ExemploFluxoAssincrono.dll
